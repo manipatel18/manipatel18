@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br>🌱 I’m currently learning python<br>💬 Ask me about<br>⚡ Fun fact
+<br>🌱 I’m currently learning python<br>⚡ Fun fact:Lazy work but smart
 
 
 ## 🌐 Socials:
