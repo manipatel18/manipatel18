@@ -46,6 +46,10 @@ Here are some ideas to get you started:
         <img src="https://github.com/user-attachments/assets/b1b51b4b-6242-4548-934d-f7eb9d93b299" width="100" height="100" alt="NPTEL Course">
       </a>
       <div>NPTEL Course     </div>
+      <td align="center">
+        <a href="https://tinyurl.com/yts8rwff">
+          <img src="https://github.com/user-attachments/assets/b1b51b4b-6242-4548-934d-f7eb9d93b299"width="100" height="100" alt="GenAI Powered Data Analytics>
+      </td>
     </td>
   </tr>
 </table>
