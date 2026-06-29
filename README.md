@@ -48,7 +48,7 @@ Here are some ideas to get you started:
       <div>NPTEL Online Certification </div>
     </td>
       <td align="center">
-        <a href="https://tinyurl.com/yts8rwff">
+        <a href="https://www.theforage.com/completion certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a3581d046f317f60a27ac16_1781949523362_completion_certificate.pdf">
         <img src="https://github.com/user-attachments/assets/b1b51b4b-6242-4548-934d-f7eb9d93b299"width="100" height="100" alt="GenAI Powered Data Analytics">
           </a>
           <div>GenAI Powered Data Analytics</div>
